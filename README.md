@@ -63,5 +63,5 @@ A live inference demo was deployed on Hugging Face Spaces, allowing real-time cl
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Oneliihansa/News_classification_model_NLP/blob/main/Screenshot%202025-06-17%20112841.png)
+![App Screenshot](https://github.com/Oneliihansa/News_classification_model_NLP/blob/main/App-screenshots.png)
 
